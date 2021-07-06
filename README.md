@@ -1,4 +1,4 @@
-# I an getting started with react and this readme file helped me alot and would always prefer this to beginners like me
+# I am getting started with react and this readme file helped me alot and would always prefer this to beginners like me
 
 ## Available Scripts
 
